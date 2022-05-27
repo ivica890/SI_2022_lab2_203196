@@ -2,7 +2,7 @@
 
 **Control Flow Graph**
 
-![](images/graph.png)
+![](images/graph.PNG)
 
 **Цикломатска Комплексност**
 Цикломатската комплексност ја преметувам т.ш.
